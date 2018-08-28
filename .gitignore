@@ -1,0 +1,11 @@
+/build/bundle.js
+/build/bundle.js.map
+**/node_modules
+/dist/
+.idea
+.idea/compiler.xml
+.idea/copyright/
+.idea/watcherTasks.xml
+.idea/workspace.xml
+build/
+dist/
